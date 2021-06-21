@@ -54,5 +54,5 @@ public class Main {
         System.out.println("Сумма всех чисел массива равна: " + sum);
     }
 
-
+//
 }
